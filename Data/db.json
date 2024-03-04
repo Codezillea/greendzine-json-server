@@ -1,0 +1,248 @@
+{
+   "employee_details":[
+    {
+      "id": 1,
+      "name": "John Smith",
+      "DOB": "1990-01-01",
+      "Role": "Engineer"
+    },
+    {
+      "id": 2,
+      "name": "Alice Johnson",
+      "DOB": "1992-03-15",
+      "Role": "Manager"
+    },
+    {
+      "id": 3,
+      "name": "Michael Brown",
+      "DOB": "1985-05-20",
+      "Role": "Designer"
+    },
+    {
+      "id": 4,
+      "name": "Emily Williams",
+      "DOB": "1987-07-10",
+      "Role": "Developer"
+    },
+    {
+      "id": 5,
+      "name": "Sarah Miller",
+      "DOB": "1994-09-25",
+      "Role": "Analyst"
+    },
+    {
+      "id": 6,
+      "name": "David Davis",
+      "DOB": "1991-11-30",
+      "Role": "Administrator"
+    },
+    {
+      "id": 7,
+      "name": "Jessica Martinez",
+      "DOB": "1988-02-05",
+      "Role": "Consultant"
+    },
+    {
+      "id": 8,
+      "name": "Matthew Taylor",
+      "DOB": "1983-04-17",
+      "Role": "Coordinator"
+    },
+    {
+      "id": 9,
+      "name": "Jennifer Wilson",
+      "DOB": "1993-06-20",
+      "Role": "Supervisor"
+    },
+    {
+      "id": 10,
+      "name": "Christopher Anderson",
+      "DOB": "1989-08-12",
+      "Role": "Assistant"
+    },
+    {
+      "id": 11,
+      "name": "Elizabeth Brown",
+      "DOB": "1987-10-05",
+      "Role": "Engineer"
+    },
+    {
+      "id": 12,
+      "name": "Daniel Lee",
+      "DOB": "1995-12-18",
+      "Role": "Manager"
+    },
+    {
+      "id": 13,
+      "name": "Amanda Garcia",
+      "DOB": "1984-02-14",
+      "Role": "Designer"
+    },
+    {
+      "id": 14,
+      "name": "James Rodriguez",
+      "DOB": "1990-04-22",
+      "Role": "Developer"
+    },
+    {
+      "id": 15,
+      "name": "Michelle Clark",
+      "DOB": "1992-06-30",
+      "Role": "Analyst"
+    },
+    {
+      "id": 16,
+      "name": "Andrew Harris",
+      "DOB": "1986-08-05",
+      "Role": "Administrator"
+    },
+    {
+      "id": 17,
+      "name": "Nicole Taylor",
+      "DOB": "1989-10-10",
+      "Role": "Consultant"
+    },
+    {
+      "id": 18,
+      "name": "Ryan Martinez",
+      "DOB": "1981-12-03",
+      "Role": "Coordinator"
+    },
+    {
+      "id": 19,
+      "name": "Lauren King",
+      "DOB": "1993-02-28",
+      "Role": "Supervisor"
+    },
+    {
+      "id": 20,
+      "name": "Brandon Carter",
+      "DOB": "1985-04-15",
+      "Role": "Assistant"
+    },
+    {
+      "id": 21,
+      "name": "Samantha White",
+      "DOB": "1991-06-08",
+      "Role": "Engineer"
+    },
+    {
+      "id": 22,
+      "name": "Tyler Moore",
+      "DOB": "1988-08-20",
+      "Role": "Manager"
+    },
+    {
+      "id": 23,
+      "name": "Hannah Rivera",
+      "DOB": "1990-10-25",
+      "Role": "Designer"
+    },
+    {
+      "id": 24,
+      "name": "Jacob Mitchell",
+      "DOB": "1986-12-31",
+      "Role": "Developer"
+    },
+    {
+      "id": 25,
+      "name": "Megan Harris",
+      "DOB": "1989-02-14",
+      "Role": "Analyst"
+    },
+    {
+      "id": 26,
+      "name": "Jonathan Adams",
+      "DOB": "1993-04-05",
+      "Role": "Administrator"
+    },
+    {
+      "id": 27,
+      "name": "Stephanie Scott",
+      "DOB": "1987-06-18",
+      "Role": "Consultant"
+    },
+    {
+      "id": 28,
+      "name": "Nathan Hill",
+      "DOB": "1982-08-23",
+      "Role": "Coordinator"
+    },
+    {
+      "id": 29,
+      "name": "Ashley Torres",
+      "DOB": "1991-10-30",
+      "Role": "Supervisor"
+    },
+    {
+      "id": 30,
+      "name": "Justin Bailey",
+      "DOB": "1984-12-03",
+      "Role": "Assistant"
+    },
+    {
+      "id": 31,
+      "name": "Kaitlyn Reed",
+      "DOB": "1988-02-15",
+      "Role": "Engineer"
+    },
+    {
+      "id": 32,
+      "name": "Alexander Evans",
+      "DOB": "1994-04-20",
+      "Role": "Manager"
+    },
+    {
+      "id": 33,
+      "name": "Kayla Phillips",
+      "DOB": "1989-06-25",
+      "Role": "Designer"
+    },
+    {
+      "id": 34,
+      "name": "Steven Cooper",
+      "DOB": "1983-08-30",
+      "Role": "Developer"
+    },
+    {
+      "id": 35,
+      "name": "Courtney Long",
+      "DOB": "1991-10-05",
+      "Role": "Analyst"
+    },
+    {
+      "id": 36,
+      "name": "Patrick Wright",
+      "DOB": "1987-12-15",
+      "Role": "Administrator"
+    },
+    {
+      "id": 37,
+      "name": "Rebecca Morris",
+      "DOB": "1990-02-28",
+      "Role": "Consultant"
+    },
+    {
+      "id": 38,
+      "name": "Timothy Cook",
+      "DOB": "1985-05-10",
+      "Role": "Coordinator"
+    }
+],
+ "users":
+ [
+  {
+    "email" : "HR@gmail.com",
+    "password": "hr"
+  },
+  {
+    "email" : "sample@gmail.com",
+    "password": "sample"
+  },
+  {
+    "email" : "greendzine@gmail.com",
+    "password": "greendzine"
+  }
+ ]
+  
+}
